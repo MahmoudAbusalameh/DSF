@@ -35,3 +35,5 @@ Upon completion of the subject, students will be able to:
 * ### Data Scource: [Iris data](https://github.com/Abdel-Razzak/DSF/blob/3-EDA/iris-data.csv)
 
 * ### Workshop Material: [session 2](https://github.com/Abdel-Razzak/DSF/blob/3-EDA/session%202.rar)
+
+* ### Workshop Material: [session 3](https://github.com/Abdel-Razzak/DSF/blob/3-EDA/Statistics%20thinking.pdf)

@@ -37,3 +37,4 @@ Upon completion of the subject, students will be able to:
 * ### Workshop Material: [session 2](https://github.com/Abdel-Razzak/DSF/blob/3-EDA/session%202.rar)
 
 * ### Workshop Material: [session 3](https://github.com/Abdel-Razzak/DSF/blob/3-EDA/Statistics%20thinking.pdf)
+* ### example: insights on Hypothises testing [H_Test](https://github.com/Abdel-Razzak/DSF/tree/3-EDA/H%20test)
